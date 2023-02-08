@@ -1,0 +1,39 @@
+Start screen
+	!-ask wish to start new or load saved
+
+New Game
+	!-ask if more then 2 players (Min 2 Max 4)
+	!-each player gets 13 random cards in hand cant see opponents
+
+Load Game
+	-Display Status
+	-Proceed with game
+
+How to 
+	-player chooses 1 card to play
+	-goal: highest unique card
+	-only use each card once
+	-winner gets all cards added score
+	-13 rounds
+	-tie no winner points roll over to next round, 
+if last round theyre lost
+
+Exit game to menu
+	-continue, exit, exit&save, display status
+after exit or save
+	-open new game
+	-load other game
+	-exit application
+
+To save
+	-# of players
+	-round #
+	-card #s and suits: all 13 and include used
+	-scores of players
+
+Scoring
+	-numbers is num value
+	-jack 11
+	-queen 12
+	-king 13
+	-Ace 14
