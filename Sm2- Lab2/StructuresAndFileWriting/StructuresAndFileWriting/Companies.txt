@@ -1,0 +1,12 @@
+Company 1
+  Name: Facebook
+  Reg Number: 7852
+  VAT Number: 78963
+  Total Average Sales: 50.00
+
+Company 2
+  Name: SnapChat
+  Reg Number: 456321
+  VAT Number: 7412
+  Total Average Sales: 20.00
+
