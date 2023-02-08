@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\siobh\OneDrive\OneDrive - GMIT\2021_2022\Procedural Programming\Labs\Week 4\SimpleCalculator2\SimpleCalculator2\Source.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\siobh\OneDrive\OneDrive - GMIT\2021_2022\Procedural Programming\Labs\Week 4\SimpleCalculator2\SimpleCalculator2\Source.c(44,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SimpleCalculator2.vcxproj -> C:\Users\siobh\OneDrive\OneDrive - GMIT\2021_2022\Procedural Programming\Labs\Week 4\SimpleCalculator2\Debug\SimpleCalculator2.exe
