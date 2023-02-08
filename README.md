@@ -1,2 +1,2 @@
-# C_Programming
-Labs from C Programming Module in Second Year
+# C Language in Precedural Programming
+Labs, Exams and Projects from C Programming Module in Second Year
